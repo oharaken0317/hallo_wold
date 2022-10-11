@@ -1,4 +1,4 @@
 # hallo_wold
--Apple
--Banana
--peach
+- Apple
+- Banana
+- peach
